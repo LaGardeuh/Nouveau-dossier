@@ -1,0 +1,33 @@
+
+body{
+    font-size: xx-large;
+}
+h1{
+    color: rgb(141, 80, 23);
+}
+h2{
+    position: static;
+    height: 50%;
+    color: gold;
+}
+#frog_png{
+    background-image: "jump frog.png";
+    background-repeat: no-repeat;
+}
+    /*img.fondecran{
+        position: fixed; 
+        min-width: 100%;
+        min-height: 1024px;
+        width: 100%;
+        height: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+
+    @media screen and (max-width: 1024px) {
+        img.fondecran{
+            left: 50%;
+            margin-left: -512px;
+        }
+    }*/
